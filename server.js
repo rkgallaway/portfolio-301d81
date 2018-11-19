@@ -7,7 +7,7 @@ const app = express();
 //app the $ for express
 
 //Designate a port to serve our app on
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 //Define which directory that we will serve files from
 app.use(express.static('./public'));
 
