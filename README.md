@@ -29,4 +29,7 @@ PHOTO SOURCES:
 
 
 https://unsplash.com/photos/07uiqD9LS6U
-Photo by Tim Mossholder on Unsplash   **** not yet implemented
+Photo by Tim Mossholder on Unsplash   
+
+https://unsplash.com/photos/2JONUbTfN38
+Photo by Simon Matzinger on Unsplash
